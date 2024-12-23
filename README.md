@@ -73,4 +73,4 @@ cd path/to/your/project
 
 ## Note
 
-Ensure all necessary permissions are set up on your Google Cloud VM and that you have the required access to run these scripts.
+Ensure all necessary permissions are set up on your Local Machine and that you have the required access to run these scripts.
